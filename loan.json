@@ -1,0 +1,29 @@
+[
+  {
+    "bank": "Bank of Loans",
+    "terms": {
+      "interest_rate": "5%",
+      "loan_amount": "$10,000 - $100,000",
+      "loan_term": "1 - 5 years",
+      "credit_score_requirement": "Good to Excellent"
+    }
+  },
+  {
+    "bank": "Capital Lenders",
+    "terms": {
+      "interest_rate": "4.5%",
+      "loan_amount": "$5,000 - $150,000",
+      "loan_term": "1 - 7 years",
+      "credit_score_requirement": "Fair to Excellent"
+    }
+  },
+  {
+    "bank": "Global Finance Corporation",
+    "terms": {
+      "interest_rate": "6%",
+      "loan_amount": "$20,000 - $200,000",
+      "loan_term": "2 - 10 years",
+      "credit_score_requirement": "Good to Excellent"
+    }
+  }
+]
