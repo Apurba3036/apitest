@@ -1,5 +1,5 @@
 {
-  "prompt": "Hello, how are u?Give me the only one best solution based on the following data",
+  "prompt": "Hello, how are u?Take input from user and analyze the data",
   "banks": {
     "sonali_bank": {
       "Loan Limit": "BDT 50,000/-(Fifty thousand) to BDT 500,000,00/-(Five crore)",
